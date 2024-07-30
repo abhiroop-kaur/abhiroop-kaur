@@ -8,7 +8,7 @@ What's Here?
 Dive into a mix of coding adventures and security explorations! 👾💡 Expect snippets, small projects, and thoughts on intriguing security concepts that catch my eye.
 
 Get Connected
-Let's connect and geek out! 🤝 Whether you're a developer, security buff, or just excited about tech, feel free to connect with me. Drop a message right here or connect via LinkedIn (insert your LinkedIn profile link here).
+Let's connect and geek out! 🤝 Whether you're a developer, security buff, or just excited about tech, feel free to connect with me. Drop a message right here .
 
 Let's Collaborate
 Magic happens when minds collaborate! 🌟 If you're up for joining forces on projects or have ideas to bounce around, I'm all ears. Students, pros, tech lovers – your insights are golden!
